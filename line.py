@@ -1,4 +1,5 @@
 import math as m
+
 def line():
     a = float(input("Ingrese el coeficiente A: "))
     b = float(input("Ingrese el coeficiente B: "))
